@@ -17,6 +17,4 @@
 12. How to find the right header to include in your source code when using a standard library function  
 13. How does the main function influence the return value of the program  
 
-
-
-
+![Hello Earth](https://tse2.mm.bing.net/th?id=OIP.vr7H0IIuKztnuO77kYigTwHaEK&w=690&c=7&pid=Api&p=0)
