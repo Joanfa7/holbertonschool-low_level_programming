@@ -2,7 +2,7 @@
 
 /**
  * main- System that prints a stirng
- * Return: 1 = off
+ * Return: Anything
  */
 
 int main(void)
