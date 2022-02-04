@@ -2,7 +2,7 @@
 
 /**
  * main- The programs print the alphabet in lower and upper case
- * Return: Success
+ * Return: Succes
  */
 
 int main(void)
