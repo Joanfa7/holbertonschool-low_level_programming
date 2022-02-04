@@ -1,5 +1,5 @@
 # C programming  
-##In this Repository you can find my experience with C.  
+## In this Repository you can find my experience with C.  
 ### Index  
 
 1. [**0x00-hello_world**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x00-hello_world)  
