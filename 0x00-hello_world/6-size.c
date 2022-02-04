@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main - prints the size of various data types
+/**
+ * main- prints the size of different data types
  * Return: The messaje
  */
 
@@ -12,6 +12,6 @@ int main(void)
 	printf("Size of a long int: %ld byte(s)\n", sizeof(long));
 	printf("Size of a long long int: %lu byte(s)\n", sizeof(long long));
 	printf("Size of a float: %ld byte(s)\n", sizeof(float));
-	
+
 	return (0);
 }
