@@ -2,16 +2,17 @@
 
 /**
  * main- The programs print the alphabet in lower case
- * Return: The alphabet
+ * Return: success
  */
 
 int main(void)
 {
-	int letter;
+	int letter = 'a';
 
-	for (letter = 'a'; letter <= 'z' ; letter++)
+	while (letter <= 'z')
 	{
 		putchar(letter);
+		letter++;
 	}
 	putchar('\n');
 	return (0);

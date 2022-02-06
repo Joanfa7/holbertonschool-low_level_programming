@@ -7,19 +7,19 @@
 
 int main(void)
 {
-	int letter;
-	int Letter;
+	int lwrletter = 'a';
+	int uprletter = 'A';
 
-	for (letter = 'a'; letter <= 'z' ; letter++)
+	while (lwrletter <= 'z')
 	{
-		putchar(letter);
+		putchar(lwrletter);
+		lwrletter++;
 	}
-
-	for (Letter = 'A'; Letter <= 'Z' ; Letter++)
+	while (uprletter <= 'Z')
 	{
-		putchar(Letter);
+		putchar(uprletter);
+		uprletter++;
 	}
-
 	putchar('\n');
 	return (0);
 }
