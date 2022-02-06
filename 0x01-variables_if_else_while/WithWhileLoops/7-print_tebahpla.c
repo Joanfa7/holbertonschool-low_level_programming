@@ -8,13 +8,13 @@
 int main(void)
 
 {
-	int Num;
+	int letter = 'z';
 
-	for (Num = 'z'; Num >= 'a'; Num--)
+	while (letter >= 'a')
 	{
-		putchar(Num);
+		putchar(letter);
+		letter--;
 	}
-
 	putchar('\n');
 	return (0);
 }
