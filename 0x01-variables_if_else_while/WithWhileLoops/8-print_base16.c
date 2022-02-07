@@ -5,21 +5,22 @@
  * Return: success
  */
 
-int main(void)i
+int main(void)
 
 {
-	int Num;
+	char Num = '0';
 
-	for (Num = 48; Num <= 57; Num++)
+	while (Num <= 'f')
 	{
+		if (Num >= ':' && Num <= '`')
+		{
+			Num++;
+			continue;
+		}
 		putchar(Num);
-	}
-	for (Num = 97; Num <= 102; Num++)
-	{
-		putchar(Num);
+		Num++;
 	}
 
 	putchar('\n');
 	return (0);
 }
-
