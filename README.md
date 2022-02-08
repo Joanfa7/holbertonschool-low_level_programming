@@ -8,4 +8,7 @@
 2. [**0x01-variables_if_else_while**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x01-variables_if_else_while)
 	* Conditional statements, variable types, aritmetic/logical/relational operators, True/False, comments, while loops, ASCII table.  
 
-![C logo](https://apprize.best/c/pic.jpg)
+3. [**0x02-functions_nested_loops**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x02-functions_nested_loops)
+	* Conditional statements, variable types, aritmetic/logical/relational operators, True/False, comments, while loops, ASCII table.  
+
+[C logo](https://apprize.best/c/pic.jpg)
