@@ -9,5 +9,6 @@
 	* Conditional statements, variable types, aritmetic/logical/relational operators, True/False, comments, while loops, ASCII table.  
 
 3. [**0x02-functions_nested_loops**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x02-functions_nested_loops)
-	* Conditional statements, variable types, aritmetic/logical/relational operators, True/False, comments, while loops, ASCII table.  
+	* Prototypes, header files, nested for/while loops  
 
+![C logo](https://apprize.best/c/pic.jpg)
