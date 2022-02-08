@@ -10,4 +10,4 @@
 6. What the gcc flags **-Wall -Werror -pedantic -Wextra -std=gnu89**
 7. What are header files and how to use them with #inclue
 
-![Fibonachi Loop](https://tse2.mm.bing.net/th?id=OIP.4TZ_rUSw5629xM53s-AXPwHaE8&w=690&c=7&pid=Api&p=0)
+![Fibonachi Loop](https://tse4.mm.bing.net/th?id=OIP.1RsyQ9VnbCx7FxLjwcvM1wHaJ4&h=690&c=7&pid=Api&p=0)
