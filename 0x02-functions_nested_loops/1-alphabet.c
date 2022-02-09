@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main- print the alpahbet
+ * print_alphabet- print the alpahbet
  * Return: success
  */
 
