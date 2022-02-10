@@ -11,4 +11,10 @@
 3. [**0x02-functions_nested_loops**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x02-functions_nested_loops)
 	* Prototypes, header files, nested for/while loops  
 
+4. [**0x03-debugging**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x03-debugging)
+	* Syntax, Semantic & Logical debbugin  
+
+5. [**0x04-more_functions_nested_ loops**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x04-more_functions_nested_loops)
+	* Prototypes, header files, nested for/while loops  
+
 ![C logo](https://apprize.best/c/pic.jpg)
