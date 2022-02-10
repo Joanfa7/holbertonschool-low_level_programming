@@ -8,8 +8,8 @@
 
 void print_line(int n)
 {
-	int Num = 0;
 
+/**
 	if (n > 0)
 	{
 		while (Num <= n)
@@ -27,5 +27,12 @@ void print_line(int n)
 		_putchar('$');
 		_putchar('\n');
 	}
+}*/
+	while (n > 0)
+	{
+		_putchar('_');
+		n--;
+	}
+	_putchar('\n');
 }
 
