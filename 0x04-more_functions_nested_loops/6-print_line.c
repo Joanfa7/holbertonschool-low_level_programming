@@ -12,17 +12,18 @@ void print_line(int n)
 
 	while (Num <= n)
 	{
-		if(n > 0 )
+		if (n > 0 )
 		{
 			_putchar('_');
-			if(Num == n)
+			if (Num == n)
 				_putchar('$');
 			Num++;
 		}
-		else if(Num <= 0)
-			_putchar('$');
 		Num++;
 	}
 	_putchar('\n');
 
+	if(n <= 0)
+		_putchar('$');
+	_putchar('\n');
 }
