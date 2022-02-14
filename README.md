@@ -17,7 +17,6 @@
 5. [**0x04-more_functions_nested_loops**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x04-more_functions_nested_loops)
 	* Nested loops, scope of variables
 
-6. [**0x05-pointers_arrays_strings**]()
+6. [**0x05-pointers_arrays_strings**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x05-pointers_arrays_strings)
 	* Pointers, arrays, how to manipulate strings
 
-![C](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcutewallpaper.org%2F22%2Fc-programming-wallpaper%2Fview-page-22.html&psig=AOvVaw2gR9Pj8VJ3np86497Efxe9&ust=1644948937806000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOiD65Xt__UCFQAAAAAdAAAAABAJ)
