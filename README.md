@@ -20,4 +20,4 @@
 6. [**0x05-pointers_arrays_strings**]()
 	* Pointers, arrays, how to manipulate strings
 
-![C](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcutewallpaper.org%2F22%2Fc-programming-wallpaper%2Fview-page-22.html&psig=AOvVaw2gR9Pj8VJ3np86497Efxe9&ust=1644948937806000&source=images&cd=vfe&ved=2ahUKEwjv5pS65v_1AhVyejABHepSAOEQjRx6BAgAEAk)
+![C](File Path: /22/c-programming-wallpaper/2353410121.jpg)
