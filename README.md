@@ -20,3 +20,5 @@
 6. [**0x05-pointers_arrays_strings**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x05-pointers_arrays_strings)
 	* Pointers, arrays, how to manipulate strings
 
+7. [**0x06-pointers_arrays_strings**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x06-pointers_arrays_strings)
+	* Pointers, arrays, how to manipulate strings
