@@ -1,26 +1,25 @@
 #include "main.h"
 
 /**
- *
- *
+ * _strspn- find length of a prefix
+ * @s: where we look for similarities
+ * @accept: where the similarities could be
+ * Return: the number of times the expternal loop runs.
  */
 
 unsigned int _strspn(char *s, char *accept)
 {
-	int idx;
+	int idx, count;
 
-	while (*s)
-	{
-		for (idx = 0; accept[idx]; idx++)
+	for (idx = 0; s[idx] != '\0'; idx++)
 		{
-			if( s[idx] != accept[idx])
-				break;
+			for (count = 0; accept[count] != s[idx]; count++)
+			{
+				if (accept[count] == '\0')
+				{
+					return (idx);
+				}
+			}
 		}
-		if (!accept[idx])
-		{
-			return (*s);
-		}
-		s++;
-	}
-	return(*s);
+	return (idx);
 }
