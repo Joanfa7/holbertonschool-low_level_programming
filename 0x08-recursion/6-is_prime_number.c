@@ -1,31 +1,35 @@
 #include "main.h"
+int is_prime(int n, int Num);
+
 
 /**
- * is_prime_number: retuns 1 if the input integer is a prime number
- * other whiese return 0
- * @n: input integer
+ * is_prime_number- evaluates if its prime or not
+ * @n: variable that has the number to be operated
  * Return: success
  */
 
 int is_prime_number(int n)
 {
-	int i = n / 2;
+	return (is_prime(n, 2));
+}
 
-	if (i == 1)
-	{
-		return (1);
-	}
-	else if (n % i == 0)
+/**
+ * is_prime- evaluates if its prime
+ * @n: number
+ * @Num: auxiliar
+ * Return: success
+ */
+
+int is_prime(int n, int Num)
+{
+	if (n % Num == 0 || n < 2)
 	{
 		return (0);
 	}
-	://github.com/afiorg9000/holbertonschool-low_level_programming/blob/main/0x08-recursion/6-is_prime_number.c https://github.com/afiorg9000/holbertonschool-low_level_programming/blob/main/0x08-recursion/6-is_prime_number.c if (n %i == 0)
+	else if (Num > n / 2)
 	{
 		return (1);
 	}
 	else
-	return (is_prime_number(n, i - 1));else
-	{
-		return (is_prime_number(n - 1));
-	}
+		return (is_prime(n, Num + 1));
 }
