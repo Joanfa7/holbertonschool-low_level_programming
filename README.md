@@ -29,4 +29,6 @@
 8. [**0x08-recursion**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x08-recursion)
 	* Recursion
 
+9. [**0x0A-argc_argv**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x0A-argc_argv)
+	* How to use arguments passed to your program
 ![C](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
