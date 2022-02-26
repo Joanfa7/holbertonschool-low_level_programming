@@ -3,7 +3,7 @@
 /**
  * main- print the number of elemebts
  * @argc: argument counter
- * @argv: name of the program
+ * @argv: arguments.
  * Return: success
  */
 
