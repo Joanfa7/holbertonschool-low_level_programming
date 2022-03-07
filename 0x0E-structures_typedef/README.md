@@ -5,7 +5,7 @@
 1. What are structures, when, why and how to use them  
 2. How to use typedef  
 
-![Struct](https://www.pexels.com/photo/grayscale-photography-of-scafoldings-53176/)
+![Struct](https://c4.wallpaperflare.com/wallpaper/166/707/598/architecture-drawing-engineering-wallpaper-preview.jpg)
 
 
 
