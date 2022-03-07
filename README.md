@@ -39,9 +39,10 @@
 	* exit, calloc and realloc  
 
 12. [**0x0D-preprocessor**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x0D-processor)
-	*Macros, header files guard  
+	* Macros, header files guard  
 
-13. [**0x0E-structurees_typedef**]()
+13. [**0x0E-structures_typedef**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x0E-structures_typedef)
+	* Structures and why use them, typedef  
 
 ![C](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
 
