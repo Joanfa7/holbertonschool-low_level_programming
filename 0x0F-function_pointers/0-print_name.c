@@ -6,9 +6,9 @@
  * @name: String/ name
  */
 
-void print_name(char *name, void(*f)(char *))
+void print_name(char *name, void(*f)(char *c))
 {
-	if ((f == NULL || name == NULL)
+	if ((f == NULL || name == NULL))
 	{
 		return;
 	}
