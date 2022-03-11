@@ -1,17 +1,16 @@
 #include "3-calc.h"
 
 /**
-* main- call functions of operators
-* @argc: argument counts
-* @argv: argument value
-* Return: return 0
-*/
+ * main- call functions of operators
+ * @argc: argument counts
+ * @argv: argument value
+ * Return: return 0
+ */
 
-int main(int argc, char argv)
+int main(int argc, char *argv[])
 {
-	int number1, number2, result;
+	int number1, number2;
 	int (*calc)(int, int);
-	char get_op;
 
 	if (argc != 4)
 	{
@@ -19,28 +18,22 @@ int main(int argc, char argv)
 		exit(98);
 	}
 
-	get_op = argv[2];
-	number1 = atoi(argv[1]);
-	number2 = atoi(argv[3]);
-
-	if (get_op_func(argv[2]) == NULL || argv[2][1] != '\0')
+	calc = (get_op_func(argv[2]));
+	if (calc == NULL || argv[2][1] != '\0')
 	{
 		printf("Error\n");
 		exit(99);
 	}
 
-	if ((get_op == '/' || get_op == '%') && (argv[3] == '0'))
-	{
+	number1 = atoi(argv[1]);
+	number2 = atoi(argv[3]);
 
+	if ((*argv[2] == '/' || *argv[2] == '%') && (number2 == '0'))
+	{
 		printf("Error\n");
 		exit(100);
 	}
 
-	calc = get_op_func(get_op);
-	result = calc(number1, number2);
-
-	printf("%d\n", result);
+	printf("%d\n", calc(number1, number2));
 	return (0);
 }
-
-
