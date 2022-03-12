@@ -9,10 +9,10 @@
 int sum_them_all(const unsigned int n, ...)
 {
 	unsigned int a;
-	int sum = 0;
-	va_list argmuents;
+	int sum = 0
+	va_list arguments;
 
-	va_start(argument, n);
+	va_start(arguments, n);
 	for (a = 0; a < n; a++)
 	{
 		sum += va_arg(arguments, int);
