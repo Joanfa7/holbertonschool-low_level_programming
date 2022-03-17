@@ -1,15 +1,16 @@
 #include "lists.h"
+
 /**
- * size_t print_list-
- * @list_t:
- * Retunr: numbwe of nodes
+ * print_list- prints the nodes
+ * @h: string
+ * Return: length
  */
 
 size_t print_list(const list_t *h)
 {
 	size_t ctr = 0;
 
-	while(h != NULL)
+	while (h != NULL)
 	{
 		if (h->str == NULL)
 		{
@@ -22,5 +23,5 @@ size_t print_list(const list_t *h)
 		h = h->next;
 		ctr++;
 	}
-	return(ctr);
+	return (ctr);
 }
