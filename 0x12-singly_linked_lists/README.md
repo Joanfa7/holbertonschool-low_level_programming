@@ -1,10 +1,11 @@
-#0x00 Titulo de Projecto 
+#0x12-singly_linked_lists  
 ## Learning objectives:  
 ### General  
 
-1. Lista de Objetivos  
+1. When and why using linked lists vs arrays  
+2. How to build and use linked lists  
 
-![Titulo de Foto](url)
+![Linked List](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png)
 
 
 
