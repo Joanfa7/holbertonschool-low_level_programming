@@ -44,5 +44,23 @@
 13. [**0x0E-structures_typedef**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x0E-structures_typedef)
 	* Structures and why use them, typedef  
 
+14. [**0x0F-function_pointers**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x0F-function_pointers)
+	* What are function poitner and how to use them  
+
+15. [**0x10-variadic_functions**](https://github.com/Joanfa7/holbertonschool-low_level_programming)
+	* Variadic functions, va_start, va_arg, va_end  
+
+16. [**0x12-singly_linked_lists**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x12-singly_linked_lists)
+	* Liniked list vs array and its use  
+
+17. [**0x13-more_singly_linked_lists**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x13-more_singly_linked_lists)
+	* Modifie linked list  
+
+18. [**0x14-bit_manipulation**](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x14-bit_manipulation)
+	* How to manipulate bits and use bitwise operators  
+
+19. [0x15-file_io](https://github.com/Joanfa7/holbertonschool-low_level_programming/tree/main/0x15-file_io)
+	* How to create, open, close, read and write files  
+
 ![C](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
 
