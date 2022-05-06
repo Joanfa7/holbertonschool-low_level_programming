@@ -1,16 +1,17 @@
 #include "lists.h"
-/
+
+/**
 * insert_dnodeint_at_index - add node at index of list
-*@h: head of list
-*@idx: given index
-*@n: data
+* @h: head of list
+* @idx: given index
+* @n: data
 * Return: new node added at index
-/
+*/
 
 dlistint_tinsert_dnodeint_at_index(dlistint_t h, unsigned int idx, int n)
 {
 	unsigned int count;
-	dlistint_t temp =h;
+	dlistint_t temp = h;
 	dlistint_t new_node;
 	unsigned int i;
 
@@ -30,7 +31,7 @@ dlistint_tinsert_dnodeint_at_index(dlistint_t h, unsigned int idx, int n)
 	new_node->n = n;
 	if (idx > 0 && idx < count)
 	{
-		temp =h;
+		temp = h;
 		for (i = 1; i < idx; i++)
 		{
 			temp = temp->next;
