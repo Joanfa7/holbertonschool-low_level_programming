@@ -1,7 +1,7 @@
 #include "search_algos.h"
 
 /**
- * binary_search: Searches for a value in a sorted array of integers 
+ * binary_search- Searches for a value in a sorted array of integers
  * @array: is a pointer to the firts element of the array to seach
  * @size: is the number of elements in array
  * @value: is the calue to search fo
@@ -15,18 +15,18 @@ int binary_search(int *array, size_t size, int value)
 	size_t i;
 	size_t j;
 
-	while( min <= max)
+	while (min <= max)
 	{
 		i = (min + max) / 2;
 		if (i == min)
 		{
-			return -1;
+			return (-1);
 		}
 
 		printf("Searching in array: ");
 		for (j = min; j <= max ; j++)
 		{
-			if(j < max)
+			if (j < max)
 			{
 				printf("%i, ", array[j]);
 			}
@@ -35,15 +35,14 @@ int binary_search(int *array, size_t size, int value)
 		}
 		if (array[i] < value)
 		{
-			min = i;
+			(min) = i;
 		}
 		else if (array[i] > value)
 		{
 			max = i;
 		}
 		else
-			return array[i];
-		
+			return (array[i]);
 	}
-	return -1;
+	return (-1);
 }
