@@ -1,0 +1,10 @@
+# 0x1E. C - Search Algorithms
+
+## Learning Objectives
+
+1. What is a search algorithm
+2. What is a linear search
+3. What is a binary search
+4. What is the best search algorithm to use depending on your needs
+
+![Algorithms](https://msatechnosoft.in/blog/wp-content/uploads/2018/09/Sorting-and-Searching-MSA-Technosoft.jpg)
