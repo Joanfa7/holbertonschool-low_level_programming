@@ -15,6 +15,11 @@ int binary_search(int *array, size_t size, int value)
 	size_t i;
 	size_t j;
 
+	if (array == NULL)
+	{
+		return (-1);
+	}
+
 	while (min <= max)
 	{
 		i = (min + max) / 2;
